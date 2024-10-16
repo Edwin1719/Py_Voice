@@ -31,5 +31,7 @@ This project is a voice-to-speech translation application that allows users to t
 
 
 **DOCUMENTATION**
-!
-!
+
+! https://www.youtube.com/watch?v=riWInHXyMwM
+
+!https://www.youtube.com/watch?v=_IuHIRCHqSw
