@@ -1,2 +1,2 @@
 # Py_Voice
-Este proyecto es una aplicación de traducción de voz a voz que permite a los usuarios traducir frases habladas de un idioma a otro en tiempo real. Utiliza tecnologías avanzadas de reconocimiento de voz, síntesis de voz y traducción automática para proporcionar una experiencia de usuario fluida y eficiente.
+This project is a voice-to-speech translation application that allows users to translate spoken phrases from one language to another in real time. It uses advanced speech recognition, speech synthesis and machine translation technologies to provide a smooth and efficient user experience.
