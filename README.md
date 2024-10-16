@@ -4,6 +4,7 @@
 
 This project is a voice-to-speech translation application that allows users to translate spoken phrases from one language to another in real time. It uses advanced speech recognition, speech synthesis and machine translation technologies to provide a smooth and efficient user experience.
 
+
 **FEATURES**
 
 -**Speech Recognition:** Uses the speech_recognition library to capture and recognize the user's voice.
@@ -13,6 +14,7 @@ This project is a voice-to-speech translation application that allows users to t
 -**Speech Synthesis:** Uses gTTS (Google Text-to-Speech) to convert translated text into audio.
 
 -**User Interface:** Developed with Streamlit for an interactive and easy-to-use user interface.
+
 
 
 **TECHNOLOGIES USED**
